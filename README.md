@@ -1,1 +1,1 @@
-# kameral-uzaktan-kumandal-araba
+# kameral-uzaktan-kumandalı- araba
